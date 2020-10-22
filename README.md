@@ -19,7 +19,7 @@
     * L1/L2 regularization
     * Dropout
     * Early stopping
-1. Implement these techniques in Keras
+2. Implement these techniques in Keras
 
 ---
 
@@ -46,5 +46,10 @@ III. Early Stopping
 - [Blog on L1 & L2 Regularization](https://www.machinecurve.com/index.php/2020/01/21/what-are-l1-l2-and-elastic-net-regularization-in-neural-networks/)
 - [Blog on L1, L2, & Dropout](https://towardsdatascience.com/regularization-in-deep-learning-l1-l2-and-dropout-377e75acc036)
 - [Summary of all three techniques, plus data augmentation](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
+
+---
+
+#### Authors
+Matt Brems, Tim Book, Justin Pounders
 
 ---
